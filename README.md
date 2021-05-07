@@ -1,2 +1,2 @@
-# Manejador_OSM
+# Gaby_OSM
 Tarea curso python
